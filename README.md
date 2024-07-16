@@ -50,7 +50,7 @@ Each source ought follow a _common data dictionary_ of
 
 Now that you have eight models, all with the same columns - join them together, but with a caveat:
 
-> 3. _The third step of your task is to join the six different views into ONE schema that goes beyond 1NF (\[2-6\]NF, BCNF). You have a great deal of design freedom here, so get creative! Just persist final resulting schema as tables into a new schema - please present your design's entity-relation-diagram in your README.md._
+> 3. _The third step of your task is to join the eight different views into ONE schema that goes beyond 1NF (\[2-6\]NF, BCNF). You have a great deal of design freedom here, so get creative! Just persist final resulting schema as tables into a new schema - please present your design's entity-relation-diagram in your README.md._
 
 ---
 
