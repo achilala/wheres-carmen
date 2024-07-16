@@ -2,7 +2,7 @@
 
 ## Background
 
-For this assessment, please build a dbt project that addresses the problem listed below. Ensure that you have it cloned to a git-based sharable repository, and that you have a README.md file in the repository's root discussing your analysis for the problem. You may use whichever SQL database flavor you prefer, just state which was chosen in your README.md (We use Snowflake. Open source database alternatives preferably, DuckDB comes recommended as it's easy to stand-up). 
+For this assessment, please build a dbt project that addresses the problem listed below. Ensure that you clone it to a git-based sharable repository and include a README.md file in the repository's root. The README.md should discuss your analysis of the problem and the steps you took to solve it. You may use whichever SQL database flavor you prefer, but please state which one you chose in your README.md. (Note: We use Snowflake, but open-source database alternatives like DuckDB are recommended as they are easy to set up.) 
 
 ---
 
